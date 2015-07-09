@@ -228,6 +228,7 @@
 				2B7D1B9D1B4E3AFB00EE8921 /* ViewController.m in Sources */,
 				2B7D1B9A1B4E3AFB00EE8921 /* AppDelegate.m in Sources */,
 				2B7D1B971B4E3AFB00EE8921 /* main.m in Sources */,
+				2BD4770C1B4E60D900F4FCB2 /* TESTA.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
