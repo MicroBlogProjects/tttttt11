@@ -10,4 +10,7 @@
 
 @implementation TestB
 
+-(void)test{
+    
+}
 @end
