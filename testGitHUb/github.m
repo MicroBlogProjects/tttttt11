@@ -10,4 +10,10 @@
 
 @implementation github
 
+-(void)study{
+    
+    NSLog(@"study");
+    
+}
 @end
+ 

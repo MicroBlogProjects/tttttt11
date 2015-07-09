@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface github : NSObject
-
+-(void)study;
 @end
