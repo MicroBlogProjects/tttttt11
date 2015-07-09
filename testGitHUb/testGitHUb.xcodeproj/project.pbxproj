@@ -15,6 +15,7 @@
 		2B7D1BA51B4E3AFB00EE8921 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2B7D1BA31B4E3AFB00EE8921 /* LaunchScreen.xib */; };
 		2B7D1BB11B4E3AFB00EE8921 /* testGitHUbTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B7D1BB01B4E3AFB00EE8921 /* testGitHUbTests.m */; };
 		2BD506FD1B4E7B1D005DF201 /* github.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD506FC1B4E7B1D005DF201 /* github.m */; };
+		C306AED31B4E86CE009AFDB1 /* chenxin.m in Sources */ = {isa = PBXBuildFile; fileRef = C306AED21B4E86CE009AFDB1 /* chenxin.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		2B7D1BB01B4E3AFB00EE8921 /* testGitHUbTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testGitHUbTests.m; sourceTree = "<group>"; };
 		2BD506FB1B4E7B1D005DF201 /* github.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = github.h; sourceTree = "<group>"; };
 		2BD506FC1B4E7B1D005DF201 /* github.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = github.m; sourceTree = "<group>"; };
+		C306AED11B4E86CE009AFDB1 /* chenxin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = chenxin.h; sourceTree = "<group>"; };
+		C306AED21B4E86CE009AFDB1 /* chenxin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = chenxin.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +131,8 @@
 			children = (
 				2BD506FB1B4E7B1D005DF201 /* github.h */,
 				2BD506FC1B4E7B1D005DF201 /* github.m */,
+				C306AED11B4E86CE009AFDB1 /* chenxin.h */,
+				C306AED21B4E86CE009AFDB1 /* chenxin.m */,
 			);
 			name = HUb;
 			sourceTree = "<group>";
@@ -233,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2B7D1B9D1B4E3AFB00EE8921 /* ViewController.m in Sources */,
+				C306AED31B4E86CE009AFDB1 /* chenxin.m in Sources */,
 				2B7D1B9A1B4E3AFB00EE8921 /* AppDelegate.m in Sources */,
 				2BD506FD1B4E7B1D005DF201 /* github.m in Sources */,
 				2B7D1B971B4E3AFB00EE8921 /* main.m in Sources */,
