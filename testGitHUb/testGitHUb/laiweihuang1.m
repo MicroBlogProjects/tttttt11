@@ -1,14 +1,13 @@
 //
-//  NNNNNNNNN.m
+//  laiweihuang1.m
 //  testGitHUb
 //
 //  Created by lai on 15/7/9.
 //  Copyright (c) 2015年 laiweihuang. All rights reserved.
 //
 
-#import "NNNNNNNNN.h"
+#import "laiweihuang1.h"
 
-@implementation NNNNNNNNN
-//66666
+@implementation laiweihuang1
 //赖伟煌
 @end
