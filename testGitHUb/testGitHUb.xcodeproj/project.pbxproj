@@ -15,6 +15,7 @@
 		2B7D1BA51B4E3AFB00EE8921 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2B7D1BA31B4E3AFB00EE8921 /* LaunchScreen.xib */; };
 		2B7D1BB11B4E3AFB00EE8921 /* testGitHUbTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B7D1BB01B4E3AFB00EE8921 /* testGitHUbTests.m */; };
 		2BB83C9F1B4E9FA30025AAFA /* student.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BB83C9E1B4E9FA30025AAFA /* student.m */; };
+		2BB83CA21B4EA0420025AAFA /* ttttttrt.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BB83CA11B4EA0420025AAFA /* ttttttrt.m */; };
 		2BD506FD1B4E7B1D005DF201 /* github.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD506FC1B4E7B1D005DF201 /* github.m */; };
 /* End PBXBuildFile section */
 
@@ -44,6 +45,8 @@
 		2B7D1BB01B4E3AFB00EE8921 /* testGitHUbTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testGitHUbTests.m; sourceTree = "<group>"; };
 		2BB83C9D1B4E9FA30025AAFA /* student.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = student.h; sourceTree = "<group>"; };
 		2BB83C9E1B4E9FA30025AAFA /* student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = student.m; sourceTree = "<group>"; };
+		2BB83CA01B4EA0420025AAFA /* ttttttrt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ttttttrt.h; sourceTree = "<group>"; };
+		2BB83CA11B4EA0420025AAFA /* ttttttrt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ttttttrt.m; sourceTree = "<group>"; };
 		2BD506FB1B4E7B1D005DF201 /* github.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = github.h; sourceTree = "<group>"; };
 		2BD506FC1B4E7B1D005DF201 /* github.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = github.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -69,6 +72,8 @@
 		2B7D1B881B4E3AFB00EE8921 = {
 			isa = PBXGroup;
 			children = (
+				2BB83CA01B4EA0420025AAFA /* ttttttrt.h */,
+				2BB83CA11B4EA0420025AAFA /* ttttttrt.m */,
 				2BD506FA1B4E7B0E005DF201 /* HUb */,
 				2B7D1B931B4E3AFB00EE8921 /* testGitHUb */,
 				2B7D1BAD1B4E3AFB00EE8921 /* testGitHUbTests */,
@@ -240,6 +245,7 @@
 				2BB83C9F1B4E9FA30025AAFA /* student.m in Sources */,
 				2B7D1B9D1B4E3AFB00EE8921 /* ViewController.m in Sources */,
 				2B7D1B9A1B4E3AFB00EE8921 /* AppDelegate.m in Sources */,
+				2BB83CA21B4EA0420025AAFA /* ttttttrt.m in Sources */,
 				2BD506FD1B4E7B1D005DF201 /* github.m in Sources */,
 				2B7D1B971B4E3AFB00EE8921 /* main.m in Sources */,
 			);
