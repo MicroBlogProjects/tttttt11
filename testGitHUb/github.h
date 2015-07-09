@@ -10,4 +10,5 @@
 
 @interface github : NSObject
 -(void)study;
+-(void)study2;
 @end

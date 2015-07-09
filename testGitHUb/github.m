@@ -15,5 +15,10 @@
     NSLog(@"study");
     
 }
+
+-(void)study2{
+    NSLog(@"study2");
+    
+}
 @end
  
