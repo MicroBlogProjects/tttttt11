@@ -1,18 +1,13 @@
 //
-//  hhhhh.h
+//  chenxin1.h
 //  testGitHUb
 //
-//  Created by lai on 15/7/9.
+//  Created by administrator on 15/7/9.
 //  Copyright (c) 2015年 laiweihuang. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 
-@interface hhhhh : NSObject
-//55555
-
-//赖伟煌
-
+@interface chenxin1 : NSObject
 //陈新
-
 @end

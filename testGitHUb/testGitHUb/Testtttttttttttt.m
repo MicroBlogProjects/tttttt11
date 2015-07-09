@@ -10,5 +10,9 @@
 
 @implementation Testtttttttttttt
 //8888888
+<<<<<<< HEAD
 //赖伟煌
+=======
+//陈新
+>>>>>>> 陈新branch
 @end
