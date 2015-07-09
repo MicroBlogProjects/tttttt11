@@ -13,7 +13,8 @@
 -(void)study{
     
     NSLog(@"study");
-    
+}
+
 -(void)solve{
     NSLog(@"------------");
 }
@@ -22,5 +23,9 @@
     NSLog(@"study2");
     
 }
+-(void)laiweihuang{
+    
+    NSLog(@"laiweihuang");
+    
+}
 @end
- 

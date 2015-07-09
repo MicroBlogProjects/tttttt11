@@ -12,4 +12,5 @@
 -(void)study;
 -(void)study2;
 -(void)solve;
+-(void)laiweihuang;
 @end
