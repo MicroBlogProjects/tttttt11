@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface NNNNNNNNN : NSObject
-77777
+//77777
 @end
