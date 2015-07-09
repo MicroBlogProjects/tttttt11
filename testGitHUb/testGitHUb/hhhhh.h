@@ -10,9 +10,5 @@
 
 @interface hhhhh : NSObject
 //55555
-
 //赖伟煌
-
-//陈新
-
 @end
