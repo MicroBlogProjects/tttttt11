@@ -14,5 +14,6 @@ int main(int argc, char * argv[]) {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
         NSLog(@"dsfd");
         //赖伟煌
+        //赖伟煌第二次测试
     }
 }
