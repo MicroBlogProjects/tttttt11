@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>11017A70-9BFE-4685-B774-9E9C9A63120E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>testGitHUb</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E5D930C452405D165860CB1B904A9D2172286A99</key>
+		<string>https://github.com/MicroBlogProjects/tttttt11.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>testGitHUb/testGitHUb.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E5D930C452405D165860CB1B904A9D2172286A99</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MicroBlogProjects/tttttt11.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E5D930C452405D165860CB1B904A9D2172286A99</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E5D930C452405D165860CB1B904A9D2172286A99</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tttttt11</string>
+		</dict>
+	</array>
+</dict>
+</plist>
