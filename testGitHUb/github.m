@@ -16,7 +16,7 @@
 }
 
 -(void)solve{
-    NSLog(@"------------");
+    NSLog(@"------------"); 
 }
 
 -(void)study2{
