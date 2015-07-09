@@ -1,13 +1,13 @@
 //
-//  Test2.m
+//  test4.h
 //  testGitHUb
 //
 //  Created by administrator on 15/7/9.
 //  Copyright (c) 2015年 laiweihuang. All rights reserved.
 //
 
-#import "Test2.h"
+#import <Foundation/Foundation.h>
 
-@implementation Test2
+@interface test4 : NSObject
 
 @end

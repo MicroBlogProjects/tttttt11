@@ -14,7 +14,7 @@
 		2B7D1BA21B4E3AFB00EE8921 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B7D1BA11B4E3AFB00EE8921 /* Images.xcassets */; };
 		2B7D1BA51B4E3AFB00EE8921 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2B7D1BA31B4E3AFB00EE8921 /* LaunchScreen.xib */; };
 		2B7D1BB11B4E3AFB00EE8921 /* testGitHUbTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B7D1BB01B4E3AFB00EE8921 /* testGitHUbTests.m */; };
-		C37517101B4E61770037E7F6 /* Test2.m in Sources */ = {isa = PBXBuildFile; fileRef = C375170F1B4E61770037E7F6 /* Test2.m */; };
+		C37517131B4E63400037E7F6 /* test4.m in Sources */ = {isa = PBXBuildFile; fileRef = C37517121B4E63400037E7F6 /* test4.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,8 +41,8 @@
 		2B7D1BAA1B4E3AFB00EE8921 /* testGitHUbTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testGitHUbTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B7D1BAF1B4E3AFB00EE8921 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2B7D1BB01B4E3AFB00EE8921 /* testGitHUbTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testGitHUbTests.m; sourceTree = "<group>"; };
-		C375170E1B4E61770037E7F6 /* Test2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test2.h; sourceTree = "<group>"; };
-		C375170F1B4E61770037E7F6 /* Test2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test2.m; sourceTree = "<group>"; };
+		C37517111B4E63400037E7F6 /* test4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test4.h; sourceTree = "<group>"; };
+		C37517121B4E63400037E7F6 /* test4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test4.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +87,8 @@
 				2B7D1B981B4E3AFB00EE8921 /* AppDelegate.h */,
 				2B7D1B991B4E3AFB00EE8921 /* AppDelegate.m */,
 				2B7D1B9B1B4E3AFB00EE8921 /* ViewController.h */,
+				C37517111B4E63400037E7F6 /* test4.h */,
+				C37517121B4E63400037E7F6 /* test4.m */,
 				2B7D1B9C1B4E3AFB00EE8921 /* ViewController.m */,
 				2B7D1B9E1B4E3AFB00EE8921 /* Main.storyboard */,
 				2B7D1BA11B4E3AFB00EE8921 /* Images.xcassets */,
@@ -101,8 +103,6 @@
 			children = (
 				2B7D1B951B4E3AFB00EE8921 /* Info.plist */,
 				2B7D1B961B4E3AFB00EE8921 /* main.m */,
-				C375170E1B4E61770037E7F6 /* Test2.h */,
-				C375170F1B4E61770037E7F6 /* Test2.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -224,9 +224,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C37517101B4E61770037E7F6 /* Test2.m in Sources */,
 				2B7D1B9D1B4E3AFB00EE8921 /* ViewController.m in Sources */,
 				2B7D1B9A1B4E3AFB00EE8921 /* AppDelegate.m in Sources */,
+				C37517131B4E63400037E7F6 /* test4.m in Sources */,
 				2B7D1B971B4E3AFB00EE8921 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
