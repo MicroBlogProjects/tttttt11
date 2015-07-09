@@ -10,9 +10,5 @@
 
 @interface Testtttttttttttt : NSObject
 //999999999
-<<<<<<< HEAD
 //赖伟煌
-=======
-//陈新
->>>>>>> 陈新branch
 @end

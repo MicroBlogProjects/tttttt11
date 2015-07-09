@@ -17,11 +17,7 @@
 		2BD477151B4E69AF00F4FCB2 /* Testtttttttttttt.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD477141B4E69AF00F4FCB2 /* Testtttttttttttt.m */; };
 		2BD477181B4E6AC600F4FCB2 /* NNNNNNNNN.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD477171B4E6AC600F4FCB2 /* NNNNNNNNN.m */; };
 		2BD4771B1B4E6ADD00F4FCB2 /* hhhhh.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD4771A1B4E6ADD00F4FCB2 /* hhhhh.m */; };
-<<<<<<< HEAD
 		2BD4771E1B4E6E2700F4FCB2 /* laiweihuang1.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD4771D1B4E6E2700F4FCB2 /* laiweihuang1.m */; };
-=======
-		C3AD44881B4E6E6E00AB8AB6 /* chenxin1.m in Sources */ = {isa = PBXBuildFile; fileRef = C3AD44871B4E6E6E00AB8AB6 /* chenxin1.m */; };
->>>>>>> 陈新branch
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,13 +50,8 @@
 		2BD477171B4E6AC600F4FCB2 /* NNNNNNNNN.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNNNNNNNN.m; sourceTree = "<group>"; };
 		2BD477191B4E6ADD00F4FCB2 /* hhhhh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hhhhh.h; sourceTree = "<group>"; };
 		2BD4771A1B4E6ADD00F4FCB2 /* hhhhh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = hhhhh.m; sourceTree = "<group>"; };
-<<<<<<< HEAD
 		2BD4771C1B4E6E2700F4FCB2 /* laiweihuang1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = laiweihuang1.h; sourceTree = "<group>"; };
 		2BD4771D1B4E6E2700F4FCB2 /* laiweihuang1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = laiweihuang1.m; sourceTree = "<group>"; };
-=======
-		C3AD44861B4E6E6E00AB8AB6 /* chenxin1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = chenxin1.h; sourceTree = "<group>"; };
-		C3AD44871B4E6E6E00AB8AB6 /* chenxin1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = chenxin1.m; sourceTree = "<group>"; };
->>>>>>> 陈新branch
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,13 +116,8 @@
 				2BD477171B4E6AC600F4FCB2 /* NNNNNNNNN.m */,
 				2BD477191B4E6ADD00F4FCB2 /* hhhhh.h */,
 				2BD4771A1B4E6ADD00F4FCB2 /* hhhhh.m */,
-<<<<<<< HEAD
 				2BD4771C1B4E6E2700F4FCB2 /* laiweihuang1.h */,
 				2BD4771D1B4E6E2700F4FCB2 /* laiweihuang1.m */,
-=======
-				C3AD44861B4E6E6E00AB8AB6 /* chenxin1.h */,
-				C3AD44871B4E6E6E00AB8AB6 /* chenxin1.m */,
->>>>>>> 陈新branch
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -254,7 +240,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				2BD4771B1B4E6ADD00F4FCB2 /* hhhhh.m in Sources */,
-				C3AD44881B4E6E6E00AB8AB6 /* chenxin1.m in Sources */,
 				2B7D1B9D1B4E3AFB00EE8921 /* ViewController.m in Sources */,
 				2BD477151B4E69AF00F4FCB2 /* Testtttttttttttt.m in Sources */,
 				2BD477181B4E6AC600F4FCB2 /* NNNNNNNNN.m in Sources */,

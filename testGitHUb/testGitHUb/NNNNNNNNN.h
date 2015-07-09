@@ -10,9 +10,5 @@
 
 @interface NNNNNNNNN : NSObject
 //77777
-<<<<<<< HEAD
 //赖伟煌
-=======
-//陈新
->>>>>>> 陈新branch
 @end
