@@ -14,6 +14,7 @@
 		2B7D1BA21B4E3AFB00EE8921 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B7D1BA11B4E3AFB00EE8921 /* Images.xcassets */; };
 		2B7D1BA51B4E3AFB00EE8921 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2B7D1BA31B4E3AFB00EE8921 /* LaunchScreen.xib */; };
 		2B7D1BB11B4E3AFB00EE8921 /* testGitHUbTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B7D1BB01B4E3AFB00EE8921 /* testGitHUbTests.m */; };
+		2BD4770F1B4E667500F4FCB2 /* A.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD4770E1B4E667500F4FCB2 /* A.m */; };
 		C37517131B4E63400037E7F6 /* test4.m in Sources */ = {isa = PBXBuildFile; fileRef = C37517121B4E63400037E7F6 /* test4.m */; };
 /* End PBXBuildFile section */
 
@@ -41,6 +42,8 @@
 		2B7D1BAA1B4E3AFB00EE8921 /* testGitHUbTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testGitHUbTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B7D1BAF1B4E3AFB00EE8921 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2B7D1BB01B4E3AFB00EE8921 /* testGitHUbTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testGitHUbTests.m; sourceTree = "<group>"; };
+		2BD4770D1B4E667500F4FCB2 /* A.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = A.h; sourceTree = "<group>"; };
+		2BD4770E1B4E667500F4FCB2 /* A.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = A.m; sourceTree = "<group>"; };
 		C37517111B4E63400037E7F6 /* test4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test4.h; sourceTree = "<group>"; };
 		C37517121B4E63400037E7F6 /* test4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test4.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -103,6 +106,8 @@
 			children = (
 				2B7D1B951B4E3AFB00EE8921 /* Info.plist */,
 				2B7D1B961B4E3AFB00EE8921 /* main.m */,
+				2BD4770D1B4E667500F4FCB2 /* A.h */,
+				2BD4770E1B4E667500F4FCB2 /* A.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -224,6 +229,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BD4770F1B4E667500F4FCB2 /* A.m in Sources */,
 				2B7D1B9D1B4E3AFB00EE8921 /* ViewController.m in Sources */,
 				2B7D1B9A1B4E3AFB00EE8921 /* AppDelegate.m in Sources */,
 				C37517131B4E63400037E7F6 /* test4.m in Sources */,
