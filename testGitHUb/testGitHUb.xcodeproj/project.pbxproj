@@ -90,8 +90,6 @@
 				2B7D1B981B4E3AFB00EE8921 /* AppDelegate.h */,
 				2B7D1B991B4E3AFB00EE8921 /* AppDelegate.m */,
 				2B7D1B9B1B4E3AFB00EE8921 /* ViewController.h */,
-				C37517111B4E63400037E7F6 /* test4.h */,
-				C37517121B4E63400037E7F6 /* test4.m */,
 				2B7D1B9C1B4E3AFB00EE8921 /* ViewController.m */,
 				2B7D1B9E1B4E3AFB00EE8921 /* Main.storyboard */,
 				2B7D1BA11B4E3AFB00EE8921 /* Images.xcassets */,
@@ -232,8 +230,8 @@
 				2BD4770F1B4E667500F4FCB2 /* A.m in Sources */,
 				2B7D1B9D1B4E3AFB00EE8921 /* ViewController.m in Sources */,
 				2B7D1B9A1B4E3AFB00EE8921 /* AppDelegate.m in Sources */,
-				C37517131B4E63400037E7F6 /* test4.m in Sources */,
 				2B7D1B971B4E3AFB00EE8921 /* main.m in Sources */,
+				C37517161B4E63C00037E7F6 /* test5.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
