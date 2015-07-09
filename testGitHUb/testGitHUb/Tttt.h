@@ -8,6 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface Test1 : NSObject
+@interface Tttt : NSObject
 //赖伟煌
 @end

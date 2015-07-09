@@ -6,9 +6,9 @@
 //  Copyright (c) 2015年 laiweihuang. All rights reserved.
 //
 
-#import "Test1.h"
+#import "Tttt.h"
 
-@implementation Test1
+@implementation Tttt
 //赖伟煌
 
 @end
