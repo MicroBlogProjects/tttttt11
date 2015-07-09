@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"laiweihuangTest1");
-    NSLog(@"赖伟煌Test!");
+    NSLog(@"陈新Test!");
 }
 
 - (void)didReceiveMemoryWarning {
