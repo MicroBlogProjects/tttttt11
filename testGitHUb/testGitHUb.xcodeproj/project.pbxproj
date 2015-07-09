@@ -14,10 +14,7 @@
 		2B7D1BA21B4E3AFB00EE8921 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B7D1BA11B4E3AFB00EE8921 /* Images.xcassets */; };
 		2B7D1BA51B4E3AFB00EE8921 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2B7D1BA31B4E3AFB00EE8921 /* LaunchScreen.xib */; };
 		2B7D1BB11B4E3AFB00EE8921 /* testGitHUbTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B7D1BB01B4E3AFB00EE8921 /* testGitHUbTests.m */; };
-		2BD477151B4E69AF00F4FCB2 /* Testtttttttttttt.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD477141B4E69AF00F4FCB2 /* Testtttttttttttt.m */; };
-		2BD477181B4E6AC600F4FCB2 /* NNNNNNNNN.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD477171B4E6AC600F4FCB2 /* NNNNNNNNN.m */; };
-		2BD4771B1B4E6ADD00F4FCB2 /* hhhhh.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD4771A1B4E6ADD00F4FCB2 /* hhhhh.m */; };
-		2BD4771E1B4E6E2700F4FCB2 /* laiweihuang1.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD4771D1B4E6E2700F4FCB2 /* laiweihuang1.m */; };
+		2BD506FD1B4E7B1D005DF201 /* github.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD506FC1B4E7B1D005DF201 /* github.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,14 +41,8 @@
 		2B7D1BAA1B4E3AFB00EE8921 /* testGitHUbTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testGitHUbTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B7D1BAF1B4E3AFB00EE8921 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2B7D1BB01B4E3AFB00EE8921 /* testGitHUbTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testGitHUbTests.m; sourceTree = "<group>"; };
-		2BD477131B4E69AF00F4FCB2 /* Testtttttttttttt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Testtttttttttttt.h; sourceTree = "<group>"; };
-		2BD477141B4E69AF00F4FCB2 /* Testtttttttttttt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Testtttttttttttt.m; sourceTree = "<group>"; };
-		2BD477161B4E6AC600F4FCB2 /* NNNNNNNNN.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNNNNNNNN.h; sourceTree = "<group>"; };
-		2BD477171B4E6AC600F4FCB2 /* NNNNNNNNN.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNNNNNNNN.m; sourceTree = "<group>"; };
-		2BD477191B4E6ADD00F4FCB2 /* hhhhh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hhhhh.h; sourceTree = "<group>"; };
-		2BD4771A1B4E6ADD00F4FCB2 /* hhhhh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = hhhhh.m; sourceTree = "<group>"; };
-		2BD4771C1B4E6E2700F4FCB2 /* laiweihuang1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = laiweihuang1.h; sourceTree = "<group>"; };
-		2BD4771D1B4E6E2700F4FCB2 /* laiweihuang1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = laiweihuang1.m; sourceTree = "<group>"; };
+		2BD506FB1B4E7B1D005DF201 /* github.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = github.h; sourceTree = "<group>"; };
+		2BD506FC1B4E7B1D005DF201 /* github.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = github.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +66,7 @@
 		2B7D1B881B4E3AFB00EE8921 = {
 			isa = PBXGroup;
 			children = (
+				2BD506FA1B4E7B0E005DF201 /* HUb */,
 				2B7D1B931B4E3AFB00EE8921 /* testGitHUb */,
 				2B7D1BAD1B4E3AFB00EE8921 /* testGitHUbTests */,
 				2B7D1B921B4E3AFB00EE8921 /* Products */,
@@ -110,14 +102,6 @@
 			children = (
 				2B7D1B951B4E3AFB00EE8921 /* Info.plist */,
 				2B7D1B961B4E3AFB00EE8921 /* main.m */,
-				2BD477131B4E69AF00F4FCB2 /* Testtttttttttttt.h */,
-				2BD477141B4E69AF00F4FCB2 /* Testtttttttttttt.m */,
-				2BD477161B4E6AC600F4FCB2 /* NNNNNNNNN.h */,
-				2BD477171B4E6AC600F4FCB2 /* NNNNNNNNN.m */,
-				2BD477191B4E6ADD00F4FCB2 /* hhhhh.h */,
-				2BD4771A1B4E6ADD00F4FCB2 /* hhhhh.m */,
-				2BD4771C1B4E6E2700F4FCB2 /* laiweihuang1.h */,
-				2BD4771D1B4E6E2700F4FCB2 /* laiweihuang1.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -137,6 +121,15 @@
 				2B7D1BAF1B4E3AFB00EE8921 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2BD506FA1B4E7B0E005DF201 /* HUb */ = {
+			isa = PBXGroup;
+			children = (
+				2BD506FB1B4E7B1D005DF201 /* github.h */,
+				2BD506FC1B4E7B1D005DF201 /* github.m */,
+			);
+			name = HUb;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -239,12 +232,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2BD4771B1B4E6ADD00F4FCB2 /* hhhhh.m in Sources */,
 				2B7D1B9D1B4E3AFB00EE8921 /* ViewController.m in Sources */,
-				2BD477151B4E69AF00F4FCB2 /* Testtttttttttttt.m in Sources */,
-				2BD477181B4E6AC600F4FCB2 /* NNNNNNNNN.m in Sources */,
-				2BD4771E1B4E6E2700F4FCB2 /* laiweihuang1.m in Sources */,
 				2B7D1B9A1B4E3AFB00EE8921 /* AppDelegate.m in Sources */,
+				2BD506FD1B4E7B1D005DF201 /* github.m in Sources */,
 				2B7D1B971B4E3AFB00EE8921 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

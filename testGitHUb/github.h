@@ -1,14 +1,13 @@
 //
-//  hhhhh.m
+//  github.h
 //  testGitHUb
 //
 //  Created by lai on 15/7/9.
 //  Copyright (c) 2015年 laiweihuang. All rights reserved.
 //
 
-#import "hhhhh.h"
+#import <Foundation/Foundation.h>
 
-@implementation hhhhh
-//4444
-//赖伟煌
+@interface github : NSObject
+
 @end
