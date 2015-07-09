@@ -9,5 +9,7 @@
 #import "github.h"
 
 @implementation github
-
+-(void)solve{
+    NSLog(@"------------");
+}
 @end
