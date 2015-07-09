@@ -14,6 +14,8 @@
     
     NSLog(@"study");
     
+-(void)solve{
+    NSLog(@"------------");
 }
 
 -(void)study2{
