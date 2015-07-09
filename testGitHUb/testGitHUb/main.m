@@ -13,12 +13,6 @@ int main(int argc, char * argv[]) {
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
         NSLog(@"dsfd");
-        //赖伟煌
-        //chenxin
-        //赖伟煌第二次测试
-        //赖伟煌测试3
-                //赖伟煌测试5
-         //赖伟煌测试36
-                 //赖伟煌测试36
+ //       BBBBBBB
     }
 }
