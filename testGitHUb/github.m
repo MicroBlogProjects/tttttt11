@@ -12,20 +12,25 @@
 
 -(void)study{
     
-    NSLog(@"study");
+    NSLog(@"赖伟煌");
+     NSLog(@"赖伟煌");
 }
 
 -(void)solve{
-    NSLog(@"------------"); 
+    NSLog(@"赖伟煌");
+     NSLog(@"赖伟煌");
+    
 }
 
 -(void)study2{
-    NSLog(@"study2");
+    NSLog(@"赖伟煌");
+     NSLog(@"赖伟煌");
     
 }
 -(void)laiweihuang{
     
-    NSLog(@"laiweihuang");
+     NSLog(@"赖伟煌");
+     NSLog(@"赖伟煌");
     
 }
 @end

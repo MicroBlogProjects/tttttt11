@@ -1,13 +1,13 @@
 //
-//  test1.h
+//  student.m
 //  testGitHUb
 //
 //  Created by lai on 15/7/9.
 //  Copyright (c) 2015年 laiweihuang. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import "student.h"
 
-@interface test1 : NSObject 
+@implementation student
 
 @end
