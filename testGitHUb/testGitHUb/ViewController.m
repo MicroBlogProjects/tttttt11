@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //赖伟煌
+=======
+//陈新
+>>>>>>> origin/陈新branch1
 //  ViewController.m
 //  testGitHUb
 //
